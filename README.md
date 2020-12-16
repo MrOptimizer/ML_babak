@@ -5,3 +5,5 @@ Crtl + K + U (uncooment)debug
 
 
 crt + shift + p ===> >format document
+
+crtl+ alt : replace
